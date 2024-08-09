@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/67a3fb96-7bac-4daa-93c3-e4f655edaba6" alt="Logo" width="200">
+
 # 🌀 Hadouken Funnel: Unleash the Power of Seamless Navigation!
 
 Welcome to **Hadouken Funnel**! The ultimate tool for guiding your users through the stages of your application with the same precision and impact as a well-timed Hadouken! 🚀
